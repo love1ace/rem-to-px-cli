@@ -1,5 +1,5 @@
 {
-  "name": "r2pc",
+  "name": "rem-to-px-cli",
   "version": "1.0.0",
   "description": "rem to px in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/r2pc.git"
+    "url": "https://github.com/love1ace/rem-to-px-cli.git"
   },
   "keywords": [
     "rem",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/r2pc/issues"
+    "url": "https://github.com/love1ace/rem-to-px-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/r2pc#readme",
+  "homepage": "https://github.com/love1ace/rem-to-px-cli#readme",
   "bin": {
-    "r2pc": "index.js"
+    "rem-to-px-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},

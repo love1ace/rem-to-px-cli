@@ -1,17 +1,17 @@
-# r2pc
+# rem-to-px-cli
 
-**r2pc** is a CLI tool that converts rem units to pixels (px).
+**rem-to-px-cli** is a CLI tool that converts rem units to pixels (px).
 
-![npm](https://img.shields.io/npm/v/r2pc)
-![license](https://img.shields.io/npm/l/r2pc)
+![npm](https://img.shields.io/npm/v/rem-to-px-cli)
+![license](https://img.shields.io/npm/l/rem-to-px-cli)
 
 ## Quick Start
 
-Get **r2pc** up and running quickly!
+Get **rem-to-px-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx r2pc 2
+    npx rem-to-px-cli 2
     ```
 2. **Done!**
 
@@ -21,14 +21,14 @@ Get **r2pc** up and running quickly!
 - You can change the base font size by adding a second argument:
 
     ```bash
-    npx r2pc 2 18
+    npx rem-to-px-cli 2 18
     ```
 
 This will convert `2rem` to pixels using the base font size of `18px`.
 
 ## Contributing
 
-We welcome contributions to **r2pc**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **rem-to-px-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 
